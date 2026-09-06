@@ -4,3 +4,7 @@ Graphic design specifications, apparel layouts, and marketing flyer templates.
 
 - **Behance Showcase**: [behance.net/thevinug](https://www.behance.net/thevinug)
 - **Author**: Thevinu Gunawardena
+
+
+## Project Status
+Maintained and optimized for production usage.
